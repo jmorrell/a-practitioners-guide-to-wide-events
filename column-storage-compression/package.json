@@ -1,0 +1,16 @@
+{
+  "name": "column-storage-compression",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^9.0.3",
+    "duckdb": "^1.1.1"
+  }
+}

@@ -1,0 +1,7 @@
+column-storage-compression/node_modules
+column-storage-compression/http_logs.ndjson
+column-storage-compression/http_logs.csv
+column-storage-compression/http_logs.parquet
+column-storage-compression/http_logs.duckdb
+column-storage-compression/http_logs.ndjson.gz
+.DS_Store
